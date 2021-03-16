@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01db4111-e0b3-4cf7-8cc5-d2a5aa3a33cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/dfs/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MovingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp/Nice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp/Palindromifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp/XORwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cp/fence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/educative/algo/sortsearch/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/educative/algo/sortsearch/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/BasyDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/RemoveAdjacentDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/GenerateTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterviewCourse/META-INF/CodingInterviewCourse.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/algo/sortsearch/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/algo/sortsearch/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/educative/algo/sortsearch/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/educative/algo/sortsearch/Sorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,22 +125,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="445" key="GridCell.Tab.0.bottom" timestamp="1615899333586">
+    <state width="1398" height="445" key="GridCell.Tab.0.bottom" timestamp="1615910529558">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="445" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615899333586" />
-    <state width="1398" height="445" key="GridCell.Tab.0.center" timestamp="1615899333584">
+    <state width="1398" height="445" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615910529558" />
+    <state width="1398" height="445" key="GridCell.Tab.0.center" timestamp="1615910529557">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="445" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615899333584" />
-    <state width="1398" height="445" key="GridCell.Tab.0.left" timestamp="1615899333583">
+    <state width="1398" height="445" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615910529557" />
+    <state width="1398" height="445" key="GridCell.Tab.0.left" timestamp="1615910529557">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="445" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615899333583" />
-    <state width="1398" height="445" key="GridCell.Tab.0.right" timestamp="1615899333585">
+    <state width="1398" height="445" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615910529557" />
+    <state width="1398" height="445" key="GridCell.Tab.0.right" timestamp="1615910529558">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="445" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615899333585" />
+    <state width="1398" height="445" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615910529558" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
